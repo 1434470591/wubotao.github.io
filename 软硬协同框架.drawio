@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="o7NUDWq_PIkofpthWyrm">
-    <mxGraphModel dx="1301" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,28 +43,28 @@
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-40" value="" style="image;html=1;image=img/lib/clip_art/networking/power_distribution_unit_128x128.png" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SSdJiVfDsQ5-98wGtHyl-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSdJiVfDsQ5-98wGtHyl-41" target="SSdJiVfDsQ5-98wGtHyl-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SSdJiVfDsQ5-98wGtHyl-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="255.00000000000006" as="sourcePoint" />
+            <mxPoint x="80" y="308" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-41" value="Device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="49" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SSdJiVfDsQ5-98wGtHyl-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSdJiVfDsQ5-98wGtHyl-42" target="SSdJiVfDsQ5-98wGtHyl-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-42" value="Hardware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="308" width="80" height="30" as="geometry" />
+          <mxGeometry x="39" y="308" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-43" value="Software" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="145" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-44" value="Data Acquisition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="24" y="385" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SSdJiVfDsQ5-98wGtHyl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SSdJiVfDsQ5-98wGtHyl-42" target="SSdJiVfDsQ5-98wGtHyl-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="23" y="385" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SSdJiVfDsQ5-98wGtHyl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SSdJiVfDsQ5-98wGtHyl-43" target="SSdJiVfDsQ5-98wGtHyl-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSdJiVfDsQ5-98wGtHyl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SSdJiVfDsQ5-98wGtHyl-42" target="SSdJiVfDsQ5-98wGtHyl-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
