@@ -322,9 +322,6 @@
             <mxPoint x="45" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ckq702j_ndM2lnB-2Poi-140" value="&lt;font face=&quot;Times New Roman&quot;&gt;(a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="240" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
