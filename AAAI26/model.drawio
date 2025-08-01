@@ -193,8 +193,8 @@
         <mxCell id="kRjyJCHhu1C57cdMG_MI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GTtAYAMW1gCbLqThNTm8-240" target="GTtAYAMW1gCbLqThNTm8-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTtAYAMW1gCbLqThNTm8-240" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Resize&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="336.75" y="131.67000000000002" width="60" height="20" as="geometry" />
+        <mxCell id="GTtAYAMW1gCbLqThNTm8-240" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Resize&amp;amp;Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="323.37" y="132.3" width="86.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GTtAYAMW1gCbLqThNTm8-241" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Inception&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="299.75" y="131.67000000000002" width="60" height="20" as="geometry" />
