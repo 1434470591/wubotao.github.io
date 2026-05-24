@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0">
   <diagram name="第 1 页" id="7WWy22QUI1JJGouvef38">
-    <mxGraphModel dx="619" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="911" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,9 +307,6 @@
         <mxCell id="AbgqC8p86UqaUp50xFFq-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
           <mxGeometry height="16" width="16" x="340.8" y="264.5" as="geometry" />
         </mxCell>
-        <mxCell id="AbgqC8p86UqaUp50xFFq-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
-          <mxGeometry height="16" width="16" x="318.8" y="383" as="geometry" />
-        </mxCell>
         <mxCell id="AbgqC8p86UqaUp50xFFq-5" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
           <mxGeometry height="16" width="16" x="323.8" y="532" as="geometry" />
         </mxCell>
@@ -341,7 +338,7 @@
           <mxGeometry height="40" width="100" x="696" y="332.25" as="geometry" />
         </mxCell>
         <mxCell id="fxFBeaiOB0mD7qLlOX60-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="❄️" vertex="1">
-          <mxGeometry height="30" width="60" x="674" y="489" as="geometry" />
+          <mxGeometry height="26" width="26" x="693" y="490" as="geometry" />
         </mxCell>
         <mxCell id="fxFBeaiOB0mD7qLlOX60-39" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
           <mxGeometry height="16" width="16" x="698" y="245.75" as="geometry" />
@@ -532,18 +529,6 @@
         <mxCell id="fxFBeaiOB0mD7qLlOX60-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="\[\mathbf{Q}_{\mathrm{tem}}\]" vertex="1">
           <mxGeometry height="30" width="60" x="187" y="547" as="geometry" />
         </mxCell>
-        <mxCell id="fxFBeaiOB0mD7qLlOX60-91" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.061;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" target="fxFBeaiOB0mD7qLlOX60-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="600" y="300" as="sourcePoint" />
-            <mxPoint x="550" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fxFBeaiOB0mD7qLlOX60-92" edge="1" parent="1" source="E75Ajy66yJaBbH_djevq-1" style="endArrow=none;html=1;rounded=0;entryX=0.012;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="fxFBeaiOB0mD7qLlOX60-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="640" y="486" as="sourcePoint" />
-            <mxPoint x="690" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fxFBeaiOB0mD7qLlOX60-93" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;endArrow=blockThin;endFill=1;" target="E75Ajy66yJaBbH_djevq-176">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="18" y="381" as="sourcePoint" />
@@ -573,6 +558,21 @@
         </mxCell>
         <mxCell id="fxFBeaiOB0mD7qLlOX60-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Visual&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Embeddings&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="355.8" y="431.38" as="geometry" />
+        </mxCell>
+        <mxCell id="H3u63KkGGYZX8jiOdRQO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="❄️" vertex="1">
+          <mxGeometry height="26" width="26" x="317.8" y="297.25" as="geometry" />
+        </mxCell>
+        <mxCell id="H3u63KkGGYZX8jiOdRQO-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="95" y="430.25" as="geometry" />
+        </mxCell>
+        <mxCell id="H3u63KkGGYZX8jiOdRQO-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="94" y="360.25" as="geometry" />
+        </mxCell>
+        <mxCell id="H3u63KkGGYZX8jiOdRQO-5" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="111" y="290.25" as="geometry" />
+        </mxCell>
+        <mxCell id="H3u63KkGGYZX8jiOdRQO-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Crime_and_Security-2352/57-1143.svg" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="184" y="290.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
