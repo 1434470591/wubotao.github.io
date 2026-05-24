@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0">
   <diagram name="第 1 页" id="7WWy22QUI1JJGouvef38">
-    <mxGraphModel dx="1548" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="619" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,8 +233,8 @@
         <mxCell id="E75Ajy66yJaBbH_djevq-185" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Visual&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Embeddings&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="18" y="366.37" as="geometry" />
         </mxCell>
-        <mxCell id="E75Ajy66yJaBbH_djevq-202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Pred CSI&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="528.8499999999999" y="170.5" as="geometry" />
+        <mxCell id="E75Ajy66yJaBbH_djevq-202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Prediction CSI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="528.55" y="175.5" as="geometry" />
         </mxCell>
         <mxCell id="E75Ajy66yJaBbH_djevq-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Historical CSI&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="517.8" y="500" as="geometry" />
