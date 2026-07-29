@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="-7qNwo5GhaChPD6pCaJ6">
+    <mxGraphModel dx="471" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D6R22r83k5ntVv08-L72-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="\(\boldsymbol\Delta^{(l)}\)" vertex="1">
+          <mxGeometry height="40" width="60" x="70" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
