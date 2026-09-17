@@ -20,7 +20,7 @@
           <mxGeometry height="60" width="120" x="180" y="70" as="geometry" />
         </mxCell>
         <mxCell id="JCGCPe3PyI7Yt5ELLmfb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="RF Transmission" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="100" as="geometry" />
+          <mxGeometry height="30" width="60" x="530" y="130" as="geometry" />
         </mxCell>
         <mxCell id="JCGCPe3PyI7Yt5ELLmfb-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Source Coding&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Channel Coding&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="190" y="130" as="geometry" />
