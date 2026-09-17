@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCGCPe3PyI7Yt5ELLmfb-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Digital Modulation" vertex="1">
-          <mxGeometry height="30" width="110" x="190" y="40" as="geometry" />
+          <mxGeometry height="30" width="110" x="180" y="40" as="geometry" />
         </mxCell>
         <mxCell id="JCGCPe3PyI7Yt5ELLmfb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="RF Transmission" vertex="1">
           <mxGeometry height="30" width="80" x="320" y="40" as="geometry" />
